@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.perl
 Summary:	Icon Tools
 Name:		icontool
 Version:	0.1.0
